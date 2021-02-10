@@ -1,0 +1,9 @@
+Requirements
+Game needs to be winnable/losable
+ - refine the mole behavior, make it dissappear before it reappears
+        (bonus) - make sure it does not land on the same spot twice
+ - display a score 
+ - lose score each time the mole gets away without being clicked
+ - gain score each time the mole is clicked
+ - when score goes to 0 you lose
+ - pick a winning score so the user can win
